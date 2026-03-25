@@ -66,7 +66,7 @@ Metric	Score
 Model Performance
 ROC Curve
 
-![ROC Curve](images/Roc_Curve.png)
+![ROC Curve](images/ROC_Curve.png)
 
 The ROC curve shows strong class separability with an AUC of ~0.86.
 
