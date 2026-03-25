@@ -32,7 +32,6 @@ Logistic Regression (Final Model)
 Random Forest
   - Captures non-linear relationships
   - Used for model comparison
-  - 
 # Methodology
 # Data Exploration
   - Checked missing values, data types, and distributions
@@ -63,7 +62,7 @@ Metric	Score
   - Recall (Alzheimer’s)	~0.85
   - ROC-AUC	~0.86
 
-Model Performance
+# Model Performance
 ROC Curve
 
 ![ROC Curve](Images/ROC_Curve.png)
