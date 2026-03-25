@@ -100,14 +100,13 @@ This project demonstrates:
 
 # Project Structure
 
-  project/
+  Alzheimer-s-Disease-Prediction-using-Machine-Learning/
   │
   ├── images/
   │ ├── roc_curve.png
   │ ├── confusion_matrix.png
   │
   ├── notebooks/
-  ├── src/
   ├── README.md
 
 # Future Improvements
