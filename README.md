@@ -98,7 +98,7 @@ This project demonstrates:
   - Matplotlib
 
 # Project Structure
-
+```
   Alzheimer-s-Disease-Prediction-using-Machine-Learning/
   │
   ├── images/
@@ -107,7 +107,7 @@ This project demonstrates:
   │
   ├── notebooks/
   ├── README.md
-
+```
 # Future Improvements
   - Add cross-validation
   - Include precision-recall curve
