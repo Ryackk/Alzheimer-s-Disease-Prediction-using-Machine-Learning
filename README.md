@@ -99,7 +99,7 @@ This project demonstrates:
 
 # Project Structure
 ```
-  Alzheimer-s-Disease-Prediction-using-Machine-Learning/
+  alzheimers-ml-prediction/
   │
   ├── images/
   │ ├── roc_curve.png
