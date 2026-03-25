@@ -66,13 +66,13 @@ Metric	Score
 Model Performance
 ROC Curve
 
-![ROC Curve](images/ROC_Curve.png)
+![ROC Curve](Images/ROC_Curve.png)
 
 The ROC curve shows strong class separability with an AUC of ~0.86.
 
 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Images/confusion_matrix.png)
 
 The model achieves high recall, reducing false negatives, which is critical in a medical context.
 
