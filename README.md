@@ -129,7 +129,7 @@ PCA did not improve model performance. While dimensionality was reduced, importa
 ### Logistic Regression
 
 #### Confusion Matrix
-![Logistic Regression Confusion Matrix](images/confusion_matrix_lr.png)
+![Logistic Regression Confusion Matrix](Images/confusion_matrix_LR.png)
 
 The logistic regression model achieves high recall (~0.85), correctly identifying most Alzheimer’s cases. This reduces false negatives, which is critical in medical prediction tasks.
 
@@ -138,14 +138,14 @@ The logistic regression model achieves high recall (~0.85), correctly identifyin
 ### Random Forest
 
 #### Confusion Matrix
-![Random Forest Confusion Matrix](images/confusion_matrix_rf.png)
+![Random Forest Confusion Matrix](Images/confusion_matrix_RF.png)
 
 The Random Forest model achieves stronger overall classification performance, improving both accuracy (~0.93 )recall (~0.87). This suggests that non-linear relationships in the data enhance predictive capability.
 
 ---
 
 ### ROC Curve
-![ROC Curve](images/roc_curve_comparison.png)
+![ROC Curve](Images/roc_curve_comparison.png)
 
 The ROC curve demonstrates strong class separability, with both models achieving high AUC values (0.88 and 0.93 for Logistic Regression and Random Forest respectively).
 
