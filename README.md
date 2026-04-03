@@ -194,6 +194,8 @@ While logistic regression provides strong interpretability and a reliable baseli
 
 ---
 
+```
+
 ## Project Structure
 alzheimers-ml-prediction/
 │
@@ -206,6 +208,7 @@ alzheimers-ml-prediction/
 | |── Alzheimer's Disease Prediction Using Logistic Regression and Random Forest.ipynb
 ├── README.md
 
+```
 ---
 
 ## Future Improvements
